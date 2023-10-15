@@ -14,9 +14,9 @@ export const cars = [
   },
   {
     id: 3,
-    name: "ne bmw i8",
+    name: "Mclaren",
     price: 532424,
-    image: "https://bmwguide.ru/wp-content/uploads/2016/05/Vorsteiner-BMW-i8-Aero-And-Wheels-12.jpg" 
+    image: "https://i.pinimg.com/originals/ea/f2/cb/eaf2cb26b0acc8642f6cc3493edd8514.jpg" 
   },
 
 ]
